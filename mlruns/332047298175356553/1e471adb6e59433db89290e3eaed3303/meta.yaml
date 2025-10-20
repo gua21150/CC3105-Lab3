@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/1e471adb6e59433db89290e3eaed3303/artifacts
+end_time: 1760922731340
+entry_point_name: ''
+experiment_id: '332047298175356553'
+lifecycle_stage: active
+run_id: 1e471adb6e59433db89290e3eaed3303
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760922714632
+status: 3
+tags: []
+user_id: dianadiaz

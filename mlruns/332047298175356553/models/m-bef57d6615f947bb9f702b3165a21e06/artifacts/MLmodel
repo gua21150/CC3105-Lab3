@@ -1,0 +1,22 @@
+artifact_path: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/models/m-bef57d6615f947bb9f702b3165a21e06/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.5.0
+model_id: m-bef57d6615f947bb9f702b3165a21e06
+model_size_bytes: 953
+model_uuid: m-bef57d6615f947bb9f702b3165a21e06
+prompts: null
+run_id: f55d92f25c72407cbea07a47a5d08166
+utc_time_created: '2025-10-20 01:11:18.537325'

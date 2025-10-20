@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/38960f3084ff4ed8a28effcbe5551c81/artifacts
+end_time: 1760922714519
+entry_point_name: ''
+experiment_id: '332047298175356553'
+lifecycle_stage: active
+run_id: 38960f3084ff4ed8a28effcbe5551c81
+run_name: RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760922681857
+status: 3
+tags: []
+user_id: dianadiaz

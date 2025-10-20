@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/3e66717ade6e48f89b8afbada1ae03f3/artifacts
+end_time: 1760922634276
+entry_point_name: ''
+experiment_id: '332047298175356553'
+lifecycle_stage: active
+run_id: 3e66717ade6e48f89b8afbada1ae03f3
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760922634138
+status: 4
+tags: []
+user_id: dianadiaz

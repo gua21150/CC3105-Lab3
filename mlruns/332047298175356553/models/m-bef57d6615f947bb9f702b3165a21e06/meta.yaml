@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/models/m-bef57d6615f947bb9f702b3165a21e06/artifacts
+creation_timestamp: 1760922678519
+experiment_id: '332047298175356553'
+last_updated_timestamp: 1760922681846
+model_id: m-bef57d6615f947bb9f702b3165a21e06
+model_type: null
+name: model
+source_run_id: f55d92f25c72407cbea07a47a5d08166
+status: 2
+status_message: null
