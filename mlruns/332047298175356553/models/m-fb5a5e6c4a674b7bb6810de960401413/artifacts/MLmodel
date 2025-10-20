@@ -1,0 +1,41 @@
+artifact_path: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/models/m-fb5a5e6c4a674b7bb6810de960401413/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.5.0
+model_id: m-fb5a5e6c4a674b7bb6810de960401413
+model_size_bytes: 4038
+model_uuid: m-fb5a5e6c4a674b7bb6810de960401413
+prompts: null
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "ingresos_medios", "required": true}, {"type":
+    "double", "name": "promedio_edad_casas", "required": true}, {"type": "double",
+    "name": "promedio_num_habitaciones", "required": true}, {"type": "double", "name":
+    "promedio_num_dormitorios", "required": true}, {"type": "double", "name": "poblacion_distrito",
+    "required": true}, {"type": "double", "name": "promedio_personas_casa", "required":
+    true}, {"type": "double", "name": "latitud", "required": true}, {"type": "double",
+    "name": "longitude", "required": true}, {"type": "double", "name": "ratio_habitaciones_hogar",
+    "required": true}, {"type": "double", "name": "ratio_habitaciones_poblacion",
+    "required": true}, {"type": "double", "name": "ratio_dormitorios_habitacion",
+    "required": true}, {"type": "double", "name": "ingreso_persona", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-20 05:15:43.960970'

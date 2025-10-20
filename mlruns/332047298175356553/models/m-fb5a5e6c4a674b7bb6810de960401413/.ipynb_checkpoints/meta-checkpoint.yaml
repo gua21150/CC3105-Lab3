@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/models/m-fb5a5e6c4a674b7bb6810de960401413/artifacts
+creation_timestamp: 1760937343937
+experiment_id: '332047298175356553'
+last_updated_timestamp: 1760937348230
+model_id: m-fb5a5e6c4a674b7bb6810de960401413
+model_type: null
+name: linear_model
+source_run_id: null
+status: 2
+status_message: null

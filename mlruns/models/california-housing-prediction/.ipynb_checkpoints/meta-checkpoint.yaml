@@ -1,0 +1,8 @@
+aliases: {}
+creation_timestamp: 1760937348291
+deployment_job_id: null
+deployment_job_state: null
+description: Linear model for California housing price prediction. Uses features such
+  as median income, house age, etc.
+last_updated_timestamp: 1760937348307
+name: california-housing-prediction
