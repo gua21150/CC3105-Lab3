@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/models/m-244231c782d14e678bcb07b26a831a6e/artifacts
+creation_timestamp: 1760916278137
+experiment_id: '332047298175356553'
+last_updated_timestamp: 1760916280350
+model_id: m-244231c782d14e678bcb07b26a831a6e
+model_type: null
+name: GradientBoostingRegressor
+source_run_id: 1d8f0f62cefb4b9d952a6a80fff3fef9
+status: 2
+status_message: null

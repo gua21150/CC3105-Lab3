@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dianadiaz/Documents/GitHub/CC3105-Lab3/mlruns/332047298175356553/models/m-2fbabfa60a904189aa1b115c838ab7d7/artifacts
+creation_timestamp: 1760916260071
+experiment_id: '332047298175356553'
+last_updated_timestamp: 1760916263421
+model_id: m-2fbabfa60a904189aa1b115c838ab7d7
+model_type: null
+name: RandomForestRegressor
+source_run_id: 3ea4e20633064882b825890ea319e532
+status: 2
+status_message: null

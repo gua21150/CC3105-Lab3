@@ -1,0 +1,36 @@
+
+D
+&
+house_id"house_idJcalifornia_lab
+ùúÕÇØöùúÕÇØö
+C
+%
+__dummy"
+__dummy_idJcalifornia_lab
+ùúÕÇ€ÛùùúÕÇ€Ûù1"$a8e86330-96c8-48cc-bedd-f5aedc43304e*šüÕÇ˜µ¯©2Õ
+£
+california_featurescalifornia_labhouse_id"
+
+MedInc"
+HouseAge"
+AveRooms"
+	AveBedrms"
+
+Population"
+AveOccup"
+Latitude"
+	Longitude"
+ratio_rooms_house"
+ratio_rooms_pop"
+ratio_bed_per_room"
+
+target2€£:™event_timestampZdata/california.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/california.parquet’ùúÕÇ€Öà"ùúÕÇØ¯ğ@b
+house_id-
+ùúÕÇ ñüšüÕÇ€²‰©
+ŠÙĞÇŠüÕÇR¨
+¥
+,feast.infra.online_stores.sqlite.SqliteTable"u
+O/Users/dianadiaz/Documents/GitHub/CC3105-Lab3/feature_repo/data/online_store.db"california_lab_california_featuresbªevent_timestampZdata/california.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/california.parquetªcalifornia_lab’ùúÕÇ€Öà"ùúÕÇØ¯ğŠ.
+
+california_lab
+ùúÕÇˆ”ƒùúÕÇˆ”ƒ
